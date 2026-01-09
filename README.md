@@ -1,4 +1,4 @@
-# ECommerce Business Performance Analysis
+# Data-Driven Online Retail Performance Optimization System
 
 <div align="center">
 <img src="https://img.freepik.com/free-vector/online-job-interview_23-2148613123.jpg?w=1060&t=st=1698482107~exp=1698482707~hmac=6166aa6c3b8096f1abab590923534e0e37b13e019ac0931e8fcb459fc371e8c6" alt="eCommerce" style="width:700px;height:500px;" align="center">
